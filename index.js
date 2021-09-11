@@ -5,3 +5,5 @@ const z2 = 1 / Math.tan(3 / 2 * Math.PI - a); // Обчислюємо значе
 
 console.log('z1 = ' + z1);
 console.log('z2 = ' + z2); // Виводимо значення виразів
+
+console.log('Зміна №1');
