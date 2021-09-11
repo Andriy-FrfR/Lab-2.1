@@ -7,3 +7,4 @@ console.log('z1 = ' + z1);
 console.log('z2 = ' + z2); // Виводимо значення виразів
 
 console.log('Зміна №1');
+console.log('Зміна №2');
